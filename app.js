@@ -7,7 +7,7 @@ var bodyParser = require('body-parser');
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
-var facebookAPI = require('./routes/FacebookAPIs');
+var facebookAPI = require('./routes/FacebookAPI');
 
 var app = express();
 
